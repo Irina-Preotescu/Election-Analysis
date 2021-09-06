@@ -1,7 +1,7 @@
 # Election-Analysis
 
 
-I am super lost, I will resubmit this assignment.
+I am super lost, I am working on resubmitting this assignment.
 
 This is meant to be the final code from my VS Code, but there were a few things that did not work and I could not figure out:
 
