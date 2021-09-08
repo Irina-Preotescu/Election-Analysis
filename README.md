@@ -33,7 +33,9 @@ The perform this analysis, I utilized several concepts covered in previous lesso
 
 After joining the os module and the path to our dataset, I initialized a total vote counter, determined how many candidates were participating in the election, created a dictionary to determine how many votes each candidate received, and created trackers for the winning candidate, the winning amount of votes, and the winning percentage of votes. By using a file reader, I was able to obtain this information and save it in a text file, as well as in VS Code. The code can be seen below:
 
-'import csv
+'''
+
+import csv
 import os
 Assign a variable for the file to load and the path.
 file_to_load = os.path.join("Resources", "election_results.csv")
@@ -133,7 +135,8 @@ Print the final vote count to the terminal
     print(winning_candidate_summary)
 
       Save the winning candidate's name to the text file.
-    txt_file.write(winning_candidate_summary)'
+    txt_file.write(winning_candidate_summary)
+    '''
 
 The main challenge of this project was performing the data analysis correctly using Python and VS Code. The biggest obstacle was figuring out the correct indenting and how to change my computer's shells in order to have permission to enter the files I needed for this project. I overcame this challenge by slowing down and analyzing each line of code in comparison to the instructions given in the module.
 
