@@ -1,5 +1,5 @@
 # Election-Analysis
-----------------------------------------------------------------------
+
 ## Project Overview
 
 The project was commissioned by the Colorado Board of Elections and aimed to perform an election audit of a recent local congressional election. In order to achieve this goal, I structured this analysis in 5 stages: 1) calculating the total number of votes cast in the election, 2) obtaining an exhaustive list of all candidates participating in the election, 3) establishing the total number of votes each candidate received, 4) determining the percentage of votes each candidate received, and 5) declaring the winner of the election based on popular vote.
