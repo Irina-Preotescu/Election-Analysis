@@ -41,7 +41,7 @@ A total of 3 counties participated in the election:
 * Denver
 * Arapahoe
 
-* The analysis of the election shows that:
+The analysis of the election shows that:
  * Jefferson received 10.5% of the vote and 38,855 votes in total.
  * Denver received 82.8% of the vote and 306,055 votes in total.
  * Arapahoe received 6.7% of the vote and 24,801 votes in total.
