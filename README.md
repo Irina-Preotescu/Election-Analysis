@@ -27,6 +27,28 @@ Following a thorough analysis, I was able to draw the following conclusions:
 
 * The winner of the election was Diana DeGette, who received 73.8% of votes, gathering a total of 272,892 votes.
 
+The Election Commission requested further analsysis of the election data:
+
+* voter turnout for each county that participated.
+* the percentage of votes for each county.
+* the county with the largest voter turnout.
+
+## Challenge
+
+A total of 3 counties participated in the election:
+
+* Jefferson
+* Denver
+* Arapahoe
+
+* The analysis of the election shows that:
+Jefferson received 10.5% of the vote and 38,855 votes in total.
+Denver received 82.8% of the vote and 306,055 votes in total.
+Arapahoe received 6.7% of the vote and 24,801 votes in total.
+
+The county with the largest turnout:
+Denver, with 82.8% of the votes and 306,055 votes in total.
+
 ## Challenge Overview
 
 The perform this analysis, I utilized several concepts covered in previous lessons, such as *for* loops, *if* statements, lists, and dictionaries, among others.
