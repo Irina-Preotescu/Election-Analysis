@@ -161,13 +161,14 @@ Print the final vote count to the terminal
 
 The main challenge of this project was performing the data analysis correctly using Python and VS Code. The biggest obstacle was figuring out the correct indenting and how to change my computer's shells in order to have permission to enter the files I needed for this project. I overcame this challenge by slowing down and analyzing each line of code in comparison to the instructions given in the module.
 
-Additionally, I also struggled with printing the correct output to the terminal and the text file, as my code would only print one single county. I solved this by asking the tutor for help, who also had difficulties solving the problem. Eventually, he showed me that it was an indentation issue and a problem relating to the type of declared variabled and their names.
+Additionally, I also struggled with printing the correct output to the terminal and the text file, as my code would only print one single county. I solved this by asking the tutor for help, who also had difficulties solving the problem. Eventually, he showed me that it was an indentation issue and a problem relating to the type of declared variables and their names.
 
 ## Challenge Summary
 
+### Summary of the election results
 ![Results](https://github.com/Irina-Preotescu/Election-Analysis/blob/ca2e271c0b0d5c85f9e207873ce561116d39ffd1/Results.png)
 
-
+### Summary of the county results of the added Challenge
 ![County Results](https://github.com/Irina-Preotescu/Election-Analysis/blob/0646ba081a0f9913863818ebb4ba304a80c68464/County%20Results.png)
 
 
