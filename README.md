@@ -161,6 +161,8 @@ Print the final vote count to the terminal
 
 The main challenge of this project was performing the data analysis correctly using Python and VS Code. The biggest obstacle was figuring out the correct indenting and how to change my computer's shells in order to have permission to enter the files I needed for this project. I overcame this challenge by slowing down and analyzing each line of code in comparison to the instructions given in the module.
 
+Additionally, I also struggled with printing the correct output to the terminal and the text file, as my code would only print one single county. I solved this by asking the tutor for help, who also had difficulties solving the problem. Eventually, he showed me that it was an indentation issue and a problem relating to the type of declared variabled and their names.
+
 ## Challenge Summary
 
 ![Results](/Users/irinapreotescu/Desktop/Results.png)
