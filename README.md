@@ -165,7 +165,10 @@ Additionally, I also struggled with printing the correct output to the terminal 
 
 ## Challenge Summary
 
-![Results](/Users/irinapreotescu/Desktop/Results.png)
+![Results](https://github.com/Irina-Preotescu/Election-Analysis/blob/ca2e271c0b0d5c85f9e207873ce561116d39ffd1/Results.png)
+
+
+![County Results](https://github.com/Irina-Preotescu/Election-Analysis/blob/0646ba081a0f9913863818ebb4ba304a80c68464/County%20Results.png)
 
 
 
